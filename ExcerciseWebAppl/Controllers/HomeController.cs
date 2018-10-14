@@ -8,9 +8,7 @@ using ExcerciseWebAppl.Models.DAL;
 using PagedList;
 
 
-//https://www.youtube.com/watch?v=c93hVSjVSWU for Repository Pattern
-//https://www.youtube.com/watch?v=1MHC6K1DdIQ for grid.mvc
-//https://www.youtube.com/channel/UCGNBR2k-Vyxr9bEgR8LI7nQ for Telerik Grid
+
 
 
 namespace ExcerciseWebAppl.Controllers
